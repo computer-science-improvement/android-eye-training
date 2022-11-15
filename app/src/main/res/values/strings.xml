@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Maine Page -->
+    <string name="relaxation">Relaxation</string>
+    <string name="training">Training</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="settings">Settings</string>
+
+    <!--  My values   -->
+    <string name="horizontal_line_btn">Horizontal Line</string>
+    <string name="vertical_line_btn">Vertical Line</string>
+    <string name="complex_line_btn">Complex line</string>
+    <string name="circle_btn">Circle</string>
+    <string name="semi_circle">Semi circle</string>
+    <string name="slow_speed">5</string>
+    <string name="medium_speed">10</string>
+    <string name="fast_speed">15</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
